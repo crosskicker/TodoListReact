@@ -1,7 +1,7 @@
 # React + Vite
 
 (avoir node de deja installé -> node -v)
-
+<b> Si pas node d'installé </b>
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
@@ -13,7 +13,7 @@ npm create vite@latest projet1 -- --template react-swc
 
 cd projet1
 
-git clone https://
+git clone https://github.com/crosskicker/TodoListReact.git
 
 npm install
 
