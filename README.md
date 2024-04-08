@@ -1,5 +1,23 @@
 # React + Vite
 
+(avoir node de deja installé -> node -v)
+
+<b> Initialisation </b>
+
+npm create vite@latest todo-list -- --template react-swc
+
+npm install
+
+npm install -D sass
+
+<b> Lancement  </b>
+
+npm run dev 
+
+http://localhost:5173
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
