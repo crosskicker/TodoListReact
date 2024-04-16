@@ -18,6 +18,13 @@ git clone https://github.com/crosskicker/TodoListReact.git
 npm install
 
 npm install -D sass
+
+(pour plus tard)
+
+npm install react-hook-form
+
+npm install @hookform/resolvers yup
+
 </br>
 <b> Lancement  </b>
 </br>
