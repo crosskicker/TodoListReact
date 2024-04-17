@@ -19,11 +19,13 @@ npm install
 
 npm install -D sass
 
-(pour plus tard)
+(pour plus tard) :
 
 npm install react-hook-form
 
 npm install @hookform/resolvers yup
+
+npm i react-router-dom
 
 </br>
 <b> Lancement  </b>
